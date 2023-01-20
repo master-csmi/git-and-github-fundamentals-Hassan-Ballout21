@@ -1,6 +1,7 @@
 # :wave: The Basics of GitHub 
 
 A small change!
+Another change to test the pull request in the test branch
 
 ## 🤓 Course overview and learning outcomes 
 
